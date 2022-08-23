@@ -1,3 +1,3 @@
-# operations-research
+# operations research basics 
 
-coding exercise for the lecture Operations Research 1 
+gurobi exercises 
